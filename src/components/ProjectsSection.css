@@ -1,0 +1,22 @@
+.projects-section {
+  background: linear-gradient(to bottom right, #1e1e3f, #443e8b);
+  color: white;
+}
+
+.project-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: white;
+  border-radius: 16px;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-card img {
+  height: 180px;
+  object-fit: cover;
+}

@@ -1,0 +1,30 @@
+.hero-section {
+  height: 100vh;
+  background: linear-gradient(to bottom right, #1e1f3f, #5a3f8c);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero-img {
+  width: 150px;
+  height: auto;
+}
+
+.brand-name {
+  color: #ffd369;
+}
+
+.btn-gradient {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  border: none;
+  border-radius: 30px;
+  padding: 12px 30px;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn-gradient:hover {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}

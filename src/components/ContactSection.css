@@ -1,0 +1,26 @@
+.contact-section {
+  background: linear-gradient(to bottom right, #251c4b, #502f74);
+}
+
+.glass-form {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  padding: 30px;
+  border-radius: 20px;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-form input,
+.glass-form textarea {
+  background: rgba(255, 255, 255, 0.08);
+  color: white;
+  border: none;
+}
+
+.glass-form input:focus,
+.glass-form textarea:focus {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: none;
+  color: white;
+}
