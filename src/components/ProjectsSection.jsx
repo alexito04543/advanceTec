@@ -14,7 +14,8 @@ import { motion } from "framer-motion";
 import smartfoodImg from "../assets/smartfood.jpg";
 import gymappImg from "../assets/gymapp.png";
 import gestiontecImg from "../assets/gestionetec.png";
-import controltecImg from "../assets/controltec.png";
+import controltecImg from "../assets/controlTec.png";
+
 import advance from "../assets/advance.png";
 import whatsappGlow from "../assets/whatsapp-glow.svg"; // Nueva imagen futurista
 import "./ProjectsSection.css";
